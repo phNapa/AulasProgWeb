@@ -59,3 +59,4 @@ pessoa2.cpf = "213423453"
 pessoa2.idade = 20
 console.log(pessoa2)
 console.log(pessoa2.podeDirigir())
+
