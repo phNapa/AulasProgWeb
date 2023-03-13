@@ -17,10 +17,10 @@
 */
 
 class Estudante{
-    constructor(nome, email, ra, curso,disciplinas){
+    constructor(nome, email, RA, curso,disciplinas){
         this.nome = nome
         this.email = email
-        this.ra = ra
+        this.RA = RA
         this.curso = curso
         this.disciplinas = disciplinas
     }
